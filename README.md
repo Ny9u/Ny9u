@@ -23,7 +23,6 @@
 </div>
 
 ![Ny9u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ny9u&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ny9u&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
