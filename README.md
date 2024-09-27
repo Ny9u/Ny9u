@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-![Ny9u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ny9u&show_icons=true&theme=transparent&hide_rank=true&line_height=28)
+![Ny9u's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ny9u&show_icons=true&theme=transparent&rank_icon=github&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ny9u)](https://github.com/Ny9u/github-readme-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
