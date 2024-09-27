@@ -8,11 +8,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-00b4ce?style=flat&logo=Vue&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-00b4ce?style=flat&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-cf1322?style=flat&logo=Cpp&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-cf1322?style=flat&logo=cplusplus&logoColor=white">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
