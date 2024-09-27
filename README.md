@@ -2,7 +2,7 @@
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Ny9u
   </h1>
-   <p align="center">Study in GDUFE 📖 Major in Software Engineering 👨‍💻 604098901@qq.com 📮</p>
+   <p align="center">📖 Study in GDUFE 👨‍💻 Major in Computer Science 📮 604098901@qq.com</p>
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-cf1322?style=flat&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-cf1322?style=flat&logo=cpp&logoColor=white">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
