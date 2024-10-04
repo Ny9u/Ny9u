@@ -1,6 +1,6 @@
 <p align="center">
   <h1 height="200px" align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Ny9u
+    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Xuan
   </h1>
    <p align="center">📖 Study in GDUFE 👨‍💻 Major in Computer Science 📮 604098901@qq.com</p>
 </p>
