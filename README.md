@@ -42,8 +42,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing%20Script&size=22&pause=1000&color=61DAFB&width=250&lines=Keep%20learning%2C%20Keep%20growing;%20Don't%20limit%20yourself%20forever" alt="Typing SVG" />
 </p>
 
-<!--START_WAKA-->
-<!--END_WAKA-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- 
 ![Ny9u's GitHub stats](https://readme-stats.vercel.app/api?username=Ny9u&show_icons=true&theme=transparent&rank_icon=github&line_height=40&card_width=300&cache_seconds=1800)#
