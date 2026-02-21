@@ -45,7 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       1 hr 12 mins          ░░░░░░░░░░░░░░███████████   55.30 %
+Markdown     43 mins               ░░░░░░░░█████████████████   33.01 %
+Prisma       9 mins                ░░███████████████████████   06.97 %
+TypeScript   5 mins                ░████████████████████████   04.26 %
+JavaScript   0 secs                █████████████████████████   00.35 %
 ```
 
 <!--END_SECTION:waka-->
