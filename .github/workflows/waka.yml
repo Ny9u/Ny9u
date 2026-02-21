@@ -1,4 +1,4 @@
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
   schedule:
@@ -6,26 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
+    name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: athul/waka-readme@master
         with:
-          node-version: 18
-
-      - name: Run Script
-        run: node scripts/update-waka.js
-        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-      - name: Commit Changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "update waka stats"
-          git push
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+
+          LANG_COUNT: 5
+          BLOCKS: █░
+          TIME_RANGE: last_7_days
+
+          CODE_LANG: text
+          STOP_AT_OTHER: true
