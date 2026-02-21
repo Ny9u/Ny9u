@@ -1,10 +1,10 @@
 
 <p align="center">
   <h1 align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="30" height="30"/>, I'm Ny9u
+    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="30" height="30"/>, I'm wishx127
   </h1>
   <p align="center" style="font-size: 16px; color: #666; margin-top: -10px;">
-    📖 Study in GDUFE | 👨‍💻 Major in Computer Science | 📮 604098901@qq.com | 🚀 Frontend Developer
+    📖 Study in GDUFE | 👨‍💻 Major in Computer Science | 📮 hin127@foxmail.com | 🚀 Full-Stack Developer
   </p>
 </p>
 
