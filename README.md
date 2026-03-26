@@ -1,7 +1,7 @@
 
 <p align="center">
   <h1 align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="30" height="30"/>, I'm wishx127
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C3E3F7&center=true&vCenter=true&width=520&lines=Hi%F0%9F%91%8B%2CI'm+wishx127.;A+Full-Stack+Developer+%E2%9C%A8" alt="Typing SVG" /></a>
   </h1>
   <p align="center" style="font-size: 16px; color: #666; margin-top: -10px;">
     📖 Study in GDUFE | 👨‍💻 Major in Computer Science | 📮 hin127@foxmail.com | 🚀 Full-Stack Developer
