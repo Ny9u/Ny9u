@@ -45,7 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     5 mins                ░░░░░░░░░████████████████   37.90 %
+Git Config   5 mins                ░░░░░░░░░████████████████   34.84 %
+TypeScript   2 mins                ░░░██████████████████████   13.34 %
+JSON         1 min                 ░░░██████████████████████   12.85 %
+Other        0 secs                █████████████████████████   01.06 %
 ```
 
 <!--END_SECTION:waka-->
