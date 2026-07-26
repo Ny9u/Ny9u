@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="90" viewBox="0 0 1200 90"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Tech Stack section</title>
+  <desc id="desc">Terminal prompt style section header: cd tech-stack.</desc>
+  <text x="8" y="56"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="28" font-weight="600"><tspan fill="#8B949E">~/wishx127 </tspan><tspan fill="#C3E3F7">$ </tspan><tspan fill="#C3E3F7">cd tech-stack</tspan><tspan fill="#C3E3F7"> ▊</tspan></text>
+</svg>

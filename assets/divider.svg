@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="48" viewBox="0 0 1200 48"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Divider</title>
+  <desc id="desc">A thin horizontal divider line.</desc>
+  <line x1="8" y1="24" x2="1192" y2="24"
+        stroke="#8B949E" stroke-opacity="0.4" stroke-width="2"/>
+</svg>
