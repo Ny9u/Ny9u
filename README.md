@@ -49,8 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   0 secs                ░░░░░░░░░░░░░░░██████████   61.09 %
-Other        0 secs                ░░░░░░░░░░███████████████   38.91 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   100.00 %
 ```
 
 <!--END_SECTION:waka-->
