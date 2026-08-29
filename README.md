@@ -49,10 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      1 hr 16 mins          ░░░░░░░░░░░░░░░░░░░░░████   84.01 %
-Markdown        7 mins                ░░███████████████████████   08.77 %
-Jest Snapshot   3 mins                ░████████████████████████   03.53 %
-Other           1 min                 █████████████████████████   01.27 %
+TypeScript    5 hrs 13 mins         ░░░░░░░░░░░░█████████████   47.28 %
+TSConfig      1 hr 41 mins          ░░░░█████████████████████   15.31 %
+Other         1 hr 16 mins          ░░░██████████████████████   11.59 %
 ```
 
 <!--END_SECTION:waka-->
